@@ -4149,7 +4149,7 @@
 	{
 		"title": "DAZN",
 		"hex": "F8F8F5",
-		"source": "https://media.dazn.com/en/assets/"
+		"source": "https://dazngroup.com"
 	},
 	{
 		"title": "DBeaver",
@@ -14931,8 +14931,8 @@
 	{
 		"title": "Songkick",
 		"hex": "F80046",
-		"source": "https://www.songkick.com/style-guide/design",
-		"guidelines": "https://www.songkick.com/style-guide/design"
+		"source": "https://www.songkick.com/design",
+		"guidelines": "https://www.songkick.com/design"
 	},
 	{
 		"title": "Songoda",
